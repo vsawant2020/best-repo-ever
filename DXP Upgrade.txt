@@ -1,0 +1,12 @@
+Ease of maintenance due to Modularity
+DXP will enable moving away from Monolithic to Modular design which will help productization
+
+
+DXP Cloud
+- Scalability 
+- CICD Pipeline
+- Analytic
+- Patch management and Upgrade will be 
+
+Performance Benchmark improvement
+ 
